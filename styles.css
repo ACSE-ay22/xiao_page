@@ -227,3 +227,18 @@ nav {
 .container h1{
     font-size: 38px;
 }
+
+.c1 {
+    
+    /* Remove border-radius if you no longer want it rounded */
+    border-radius: 0;
+    /* Set a max-width to control the size of the image */
+    max-width: 50%;
+    height: auto;
+    justify-content: center;
+}
+
+.link {
+    color: blue; /* Set the color to blue */
+    text-decoration: underline; /* Underline the link for clarity */
+}
